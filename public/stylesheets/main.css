@@ -1,0 +1,6 @@
+.main-cover {
+  background-image: url('../images/cover_1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+}
