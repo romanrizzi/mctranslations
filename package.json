@@ -10,6 +10,10 @@
         "type": "git",
         "url": "https://github.com/romanrizzi/mctranslations"
     },
+    "scripts": {
+      "dev": "gulp dev",
+      "build": "gulp default"
+    },
     "dependencies": {
         "bootstrap": "^4.0.0-beta",
         "font-awesome": "4.7.0",
