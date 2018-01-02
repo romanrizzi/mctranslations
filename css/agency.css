@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - mctranslations v4.0.0-beta (https://github.com/romanrizzi/mctranslations)
- * Copyright 2013-2017 Roman Rizzi
+ * Copyright 2013-2018 Roman Rizzi
  * Licensed under MIT (https://github.com/BlackrockDigital/mctranslations/blob/master/LICENSE)
  */
 body {
@@ -73,8 +73,8 @@ body {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
   #mainNav .navbar-brand {
-    color: #9B67A7;
-    font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
+    color: white;
+    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #80508b; }
   #mainNav .navbar-nav .nav-item .nav-link {
@@ -160,6 +160,10 @@ header.masthead {
 .service-heading {
   margin: 15px 0;
   text-transform: none; }
+
+.bullet-list {
+  font-size: 12px;
+  text-align: left; }
 
 #portfolio .portfolio-item {
   right: 0;
