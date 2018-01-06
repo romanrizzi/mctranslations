@@ -72,3 +72,8 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: $theme-primary;
 }
+
+mark {
+  background-color: #80528A;
+  color: white;
+}

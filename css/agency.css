@@ -60,6 +60,10 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #9B67A7; }
 
+mark {
+  background-color: #80528A;
+  color: white; }
+
 #mainNav {
   background-color: rgba(0, 0, 0, 0.5); }
   #mainNav .navbar-toggler {
@@ -75,6 +79,9 @@ body {
   #mainNav .navbar-brand {
     color: white;
     font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    #mainNav .navbar-brand img {
+      width: 50px;
+      height: 50px; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #80508b; }
   #mainNav .navbar-nav .nav-item .nav-link {
